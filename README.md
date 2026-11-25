@@ -15,8 +15,8 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,kotlin,py,go,cpp,react,nextjs,redux,tailwind,nodejs,spring,fastapi,postgres,mongodb,redis,elasticsearch,rabbitmq,aws,docker,nginx,git&perline=11&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=ts,js,kotlin,py,go,cpp,react,nextjs,redux,tailwind,nodejs,spring,fastapi,postgres,mongodb,redis,elasticsearch,rabbitmq,aws,docker,nginx,git&perline=11&theme=light" alt="TypeScript, JavaScript, Kotlin, Python, Go, C++, React, Next.js, Redux, Tailwind CSS, Node.js, Spring, FastAPI, PostgreSQL, MongoDB, Redis, Elasticsearch, RabbitMQ, AWS, Docker, Nginx, Git" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Ckotlin%2Cpy%2Cgo%2Ccpp%2Creact%2Cnextjs%2Credux%2Ctailwind%2Cnodejs%2Cspring%2Cfastapi%2Cpostgres%2Cmongodb%2Credis%2Celasticsearch%2Crabbitmq%2Caws%2Cdocker%2Cnginx%2Cgit&perline=11&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Ckotlin%2Cpy%2Cgo%2Ccpp%2Creact%2Cnextjs%2Credux%2Ctailwind%2Cnodejs%2Cspring%2Cfastapi%2Cpostgres%2Cmongodb%2Credis%2Celasticsearch%2Crabbitmq%2Caws%2Cdocker%2Cnginx%2Cgit&perline=11&theme=light" alt="TypeScript, JavaScript, Kotlin, Python, Go, C++, React, Next.js, Redux, Tailwind CSS, Node.js, Spring, FastAPI, PostgreSQL, MongoDB, Redis, Elasticsearch, RabbitMQ, AWS, Docker, Nginx, Git" />
   </picture>
 </p>
 

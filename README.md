@@ -62,12 +62,12 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JatinRathore101&theme=github_dark" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JatinRathore101&theme=github" width="49%" alt="Repositories per language" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&layout=donut&langs_count=10&size_weight=0&count_weight=1&custom_title=Top%20Languages%20by%20Repo&theme=github_dark&border_color=30363d" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&layout=donut&langs_count=10&size_weight=0&count_weight=1&custom_title=Top%20Languages%20by%20Repo" width="49%" align="top" alt="Top ten languages by repository" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JatinRathore101&theme=github_dark" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JatinRathore101&theme=github" width="49%" alt="Commits, pull requests, issues and stars" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JatinRathore101&hide=stars%2Cprs%2Cissues%2Ccontribs&show_icons=true&hide_rank=true&custom_title=Stats&theme=github_dark&border_color=30363d" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JatinRathore101&hide=stars%2Cprs%2Cissues%2Ccontribs&show_icons=true&hide_rank=true&custom_title=Stats" width="49%" align="top" alt="GitHub stats" />
   </picture>
 </p>
 
@@ -81,6 +81,6 @@
 ## Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/jatin-rathore-/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" title="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/jatinrathore10120914/"><img src="assets/icon-leetcode.png" width="48" height="48" alt="LeetCode" title="LeetCode" /></a>
+  <a href="https://www.linkedin.com/in/jatin-rathore-/"><img src="https://skillicons.dev/icons?i=linkedin" width="28" height="28" alt="LinkedIn" title="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/jatinrathore10120914/"><img src="assets/icon-leetcode.png" width="28" height="28" alt="LeetCode" title="LeetCode" /></a>
 </p>

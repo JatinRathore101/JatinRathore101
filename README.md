@@ -14,12 +14,31 @@
 ## Tech stack
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Ckotlin%2Cpy%2Cgo%2Ccpp%2Creact%2Cnextjs%2Credux%2Ctailwind%2Cnodejs%2Cspring%2Cfastapi%2Cpostgres%2Cmongodb%2Credis%2Celasticsearch%2Crabbitmq%2Caws%2Cdocker%2Cnginx%2Cgit&perline=11&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Ckotlin%2Cpy%2Cgo%2Ccpp%2Creact%2Cnextjs%2Credux%2Ctailwind%2Cnodejs%2Cspring%2Cfastapi%2Cpostgres%2Cmongodb%2Credis%2Celasticsearch%2Crabbitmq%2Caws%2Cdocker%2Cnginx%2Cgit&perline=11&theme=light" alt="TypeScript, JavaScript, Kotlin, Python, Go, C++, React, Next.js, Redux, Tailwind CSS, Node.js, Spring, FastAPI, PostgreSQL, MongoDB, Redis, Elasticsearch, RabbitMQ, AWS, Docker, Nginx, Git" />
-  </picture>
-  <br />
-  <img src="assets/ai-tools.png" width="160" alt="Claude, Codex, T3 Code" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark" /><img src="https://skillicons.dev/icons?i=ts&theme=light" width="48" height="48" alt="TypeScript" title="TypeScript" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=dark" /><img src="https://skillicons.dev/icons?i=js&theme=light" width="48" height="48" alt="JavaScript" title="JavaScript" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin&theme=dark" /><img src="https://skillicons.dev/icons?i=kotlin&theme=light" width="48" height="48" alt="Kotlin" title="Kotlin" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py&theme=dark" /><img src="https://skillicons.dev/icons?i=py&theme=light" width="48" height="48" alt="Python" title="Python" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go&theme=dark" /><img src="https://skillicons.dev/icons?i=go&theme=light" width="48" height="48" alt="Go" title="Go" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp&theme=dark" /><img src="https://skillicons.dev/icons?i=cpp&theme=light" width="48" height="48" alt="C++" title="C++" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react&theme=dark" /><img src="https://skillicons.dev/icons?i=react&theme=light" width="48" height="48" alt="React" title="React" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs&theme=dark" /><img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="48" height="48" alt="Next.js" title="Next.js" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redux&theme=dark" /><img src="https://skillicons.dev/icons?i=redux&theme=light" width="48" height="48" alt="Redux" title="Redux" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwind&theme=dark" /><img src="https://skillicons.dev/icons?i=tailwind&theme=light" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs&theme=dark" /><img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="48" height="48" alt="Node.js" title="Node.js" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=spring&theme=dark" /><img src="https://skillicons.dev/icons?i=spring&theme=light" width="48" height="48" alt="Spring" title="Spring" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi&theme=dark" /><img src="https://skillicons.dev/icons?i=fastapi&theme=light" width="48" height="48" alt="FastAPI" title="FastAPI" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres&theme=dark" /><img src="https://skillicons.dev/icons?i=postgres&theme=light" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb&theme=dark" /><img src="https://skillicons.dev/icons?i=mongodb&theme=light" width="48" height="48" alt="MongoDB" title="MongoDB" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redis&theme=dark" /><img src="https://skillicons.dev/icons?i=redis&theme=light" width="48" height="48" alt="Redis" title="Redis" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=elasticsearch&theme=dark" /><img src="https://skillicons.dev/icons?i=elasticsearch&theme=light" width="48" height="48" alt="Elasticsearch" title="Elasticsearch" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rabbitmq&theme=dark" /><img src="https://skillicons.dev/icons?i=rabbitmq&theme=light" width="48" height="48" alt="RabbitMQ" title="RabbitMQ" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws&theme=dark" /><img src="https://skillicons.dev/icons?i=aws&theme=light" width="48" height="48" alt="AWS" title="AWS" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=dark" /><img src="https://skillicons.dev/icons?i=docker&theme=light" width="48" height="48" alt="Docker" title="Docker" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nginx&theme=dark" /><img src="https://skillicons.dev/icons?i=nginx&theme=light" width="48" height="48" alt="Nginx" title="Nginx" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark" /><img src="https://skillicons.dev/icons?i=git&theme=light" width="48" height="48" alt="Git" title="Git" /></picture>
+  <img src="assets/icon-claude.png" width="48" height="48" alt="Claude" title="Claude" />
+  <img src="assets/icon-codex.png" width="48" height="48" alt="Codex" title="Codex" />
+  <img src="assets/icon-t3.png" width="48" height="48" alt="T3 Code" title="T3 Code" />
 </p>
 
 ## Featured projects

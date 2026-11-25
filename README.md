@@ -73,22 +73,14 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=JatinRathore101&theme=github-dark-blue&hide_border=true" />
-    <img src="https://streak-stats.demolab.com/?user=JatinRathore101&theme=default&hide_border=true" width="49%" alt="Contribution streak" />
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/jatinrathore10120914?theme=dark" />
-    <img src="https://leetcard.jacoblin.cool/jatinrathore10120914?theme=light" width="49%" alt="LeetCode solved problems" />
+    <img src="https://leetcard.jacoblin.cool/jatinrathore10120914?theme=light" width="100%" alt="LeetCode solved problems" />
   </picture>
 </p>
 
 ## Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/jatin-rathore-/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/jatinrathore10120914/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
+  <a href="https://www.linkedin.com/in/jatin-rathore-/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" title="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/jatinrathore10120914/"><img src="assets/icon-leetcode.png" width="48" height="48" alt="LeetCode" title="LeetCode" /></a>
 </p>

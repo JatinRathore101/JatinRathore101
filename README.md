@@ -62,12 +62,12 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&layout=donut&langs_count=10&size_weight=0&count_weight=1&custom_title=Top%20Languages%20by%20Repo&theme=github_dark&border_color=30363d" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&layout=donut&langs_count=10&size_weight=0&count_weight=1&custom_title=Top%20Languages%20by%20Repo" width="49%" align="top" alt="Top ten languages by repository" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&langs_count=10&size_weight=0&count_weight=1&layout=normal&custom_title=Top%20Languages%20by%20Repo&theme=github_dark&border_color=30363d" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&langs_count=10&size_weight=0&count_weight=1&layout=normal&custom_title=Top%20Languages%20by%20Repo" width="49%" align="top" alt="Top ten languages by repository" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JatinRathore101&hide=stars%2Cprs%2Cissues%2Ccontribs&show_icons=true&hide_rank=true&custom_title=Stats&theme=github_dark&border_color=30363d" />
-    <img src="https://github-readme-stats.vercel.app/api?username=JatinRathore101&hide=stars%2Cprs%2Cissues%2Ccontribs&show_icons=true&hide_rank=true&custom_title=Stats" width="49%" align="top" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&langs_count=10&size_weight=0&count_weight=1&layout=pie&hide_title=true&theme=github_dark&border_color=30363d" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&langs_count=10&size_weight=0&count_weight=1&layout=pie&hide_title=true" width="49%" align="top" alt="Pie chart of top ten languages by repository" />
   </picture>
 </p>
 

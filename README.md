@@ -55,20 +55,13 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JatinRathore101&theme=github_dark" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JatinRathore101&theme=github" width="100%" alt="Contribution graph and profile details" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JatinRathore101&name=JatinRathore101&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JatinRathore101&name=JatinRathore101&theme=github" width="100%" alt="Contribution graph and profile details" />
   </picture>
 </p>
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&langs_count=10&size_weight=0&count_weight=1&layout=normal&custom_title=Top%20Languages%20by%20Repo&theme=github_dark&border_color=30363d" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&langs_count=10&size_weight=0&count_weight=1&layout=normal&custom_title=Top%20Languages%20by%20Repo" width="49%" align="top" alt="Top ten languages by repository" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&langs_count=10&size_weight=0&count_weight=1&layout=pie&hide_title=true&theme=github_dark&border_color=30363d" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&langs_count=10&size_weight=0&count_weight=1&layout=pie&hide_title=true" width="49%" align="top" alt="Pie chart of top ten languages by repository" />
-  </picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&langs_count=10&size_weight=0&count_weight=1&border_radius=0&layout=normal&custom_title=Top%20Languages%20by%20Repo&theme=github_dark&border_color=30363d" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&langs_count=10&size_weight=0&count_weight=1&border_radius=0&layout=normal&custom_title=Top%20Languages%20by%20Repo" width="44%" align="top" alt="Top ten languages by repository" /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&langs_count=10&size_weight=0&count_weight=1&border_radius=0&layout=pie&hide_title=true&theme=github_dark&border_color=30363d" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&langs_count=10&size_weight=0&count_weight=1&border_radius=0&layout=pie&hide_title=true" width="54%" align="top" alt="Pie chart of top ten languages by repository" /></picture>
 </p>
 
 <p>

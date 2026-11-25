@@ -1,7 +1,7 @@
 <h2>Hi, I'm Jatin Rathore 👋</h2>
 
 <a href="https://github.com/JatinRathore101">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=2F81F7&width=640&lines=Product-minded+Full-Stack+Engineer;Fintech+%7C+Payments+%7C+Banking+Integrations;AI-native%3A+spec+%E2%86%92+code+%E2%86%92+review+%E2%86%92+test;TypeScript+%7C+Kotlin+%7C+Go+%7C+Python" alt="Product-minded Full-Stack Engineer, fintech, AI-native" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lato&weight=700&size=22&pause=1200&color=2F81F7&width=640&lines=Product-minded+Full-Stack+Engineer;Fintech+%7C+Payments+%7C+Banking+Integrations;AI-native%3A+spec+%E2%86%92+code+%E2%86%92+review+%E2%86%92+test;TypeScript+%7C+Kotlin+%7C+Go+%7C+Python" alt="Product-minded Full-Stack Engineer, fintech, AI-native" />
 </a>
 
 ## About
@@ -55,19 +55,19 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JatinRathore101&name=JatinRathore101&theme=github_dark" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JatinRathore101&name=JatinRathore101&theme=github" width="100%" alt="Contribution graph and profile details" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JatinRathore101&name=JatinRathore101&theme=github_dark&bg_color=00000000&border_color=00000000" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JatinRathore101&name=JatinRathore101&theme=github&bg_color=00000000&border_color=00000000" width="100%" alt="Contribution graph and profile details" />
   </picture>
 </p>
 
 <p>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&langs_count=10&size_weight=0&count_weight=1&border_radius=0&layout=normal&custom_title=Top%20Languages%20by%20Repo&theme=github_dark&border_color=30363d" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&langs_count=10&size_weight=0&count_weight=1&border_radius=0&layout=normal&custom_title=Top%20Languages%20by%20Repo" width="44%" align="top" alt="Top ten languages by repository" /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&langs_count=10&size_weight=0&count_weight=1&border_radius=0&layout=pie&hide_title=true&theme=github_dark&border_color=30363d" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&langs_count=10&size_weight=0&count_weight=1&border_radius=0&layout=pie&hide_title=true" width="54%" align="top" alt="Pie chart of top ten languages by repository" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&langs_count=10&size_weight=0&count_weight=1&hide_border=true&bg_color=00000000&layout=normal&custom_title=Top%20Languages%20by%20Repo&theme=github_dark" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&langs_count=10&size_weight=0&count_weight=1&hide_border=true&bg_color=00000000&layout=normal&custom_title=Top%20Languages%20by%20Repo" width="44%" align="top" alt="Top ten languages by repository" /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&langs_count=10&size_weight=0&count_weight=1&hide_border=true&bg_color=00000000&layout=pie&hide_title=true&theme=github_dark" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&langs_count=10&size_weight=0&count_weight=1&hide_border=true&bg_color=00000000&layout=pie&hide_title=true" width="54%" align="top" alt="Pie chart of top ten languages by repository" /></picture>
 </p>
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/jatinrathore10120914?theme=dark" />
-    <img src="https://leetcard.jacoblin.cool/jatinrathore10120914?theme=light" width="100%" alt="LeetCode solved problems" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/jatinrathore10120914?colors=0d1117%2C404040%2Cf0f0f0%2Cdcdcdc%2Cffa116%2C5cb85c%2Cf0ad4e%2Cd9534f&font=Lato&border=0&radius=0" />
+    <img src="https://leetcard.jacoblin.cool/jatinrathore10120914?colors=ffffff%2Ce5e5e5%2C000000%2C808080%2Cffa116%2C5cb85c%2Cf0ad4e%2Cd9534f&font=Lato&border=0&radius=0" width="100%" alt="LeetCode solved problems" />
   </picture>
 </p>
 

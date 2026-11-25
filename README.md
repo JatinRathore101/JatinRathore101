@@ -60,8 +60,11 @@
   </picture>
 </p>
 
-<p>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&langs_count=10&size_weight=0&count_weight=1&hide_border=true&bg_color=00000000&layout=normal&custom_title=Top%20Languages%20by%20Repo&theme=github_dark&text_color=8b949e" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&langs_count=10&size_weight=0&count_weight=1&hide_border=true&bg_color=00000000&layout=normal&custom_title=Top%20Languages%20by%20Repo&text_color=586069" width="44%" align="top" alt="Top ten languages by repository" /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&langs_count=10&size_weight=0&count_weight=1&hide_border=true&bg_color=00000000&layout=donut-vertical&hide_title=true&theme=github_dark&text_color=8b949e" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&langs_count=10&size_weight=0&count_weight=1&hide_border=true&bg_color=00000000&layout=donut-vertical&hide_title=true&text_color=586069" width="54%" align="top" alt="Pie chart of top ten languages by repository" /></picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&langs_count=10&size_weight=0&count_weight=1&hide_border=true&bg_color=00000000&layout=donut-vertical&custom_title=Top%20Languages%20by%20Repo&theme=github_dark&text_color=8b949e" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRathore101&langs_count=10&size_weight=0&count_weight=1&hide_border=true&bg_color=00000000&layout=donut-vertical&custom_title=Top%20Languages%20by%20Repo&text_color=586069" width="54%" alt="Top ten languages by repository" />
+  </picture>
 </p>
 
 <hr />
@@ -76,6 +79,5 @@
 ## Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/jatin-rathore-/"><img src="https://skillicons.dev/icons?i=linkedin" width="28" height="28" alt="LinkedIn" title="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/jatinrathore10120914/"><img src="assets/icon-leetcode.png" width="28" height="28" alt="LeetCode" title="LeetCode" /></a>
+  <a href="https://www.linkedin.com/in/jatin-rathore-/"><img src="https://skillicons.dev/icons?i=linkedin" width="28" height="28" alt="LinkedIn" title="LinkedIn" /></a>&emsp;<a href="https://leetcode.com/u/jatinrathore10120914/"><img src="assets/icon-leetcode.png" width="28" height="28" alt="LeetCode" title="LeetCode" /></a>
 </p>

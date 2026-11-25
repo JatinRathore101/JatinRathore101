@@ -20,6 +20,26 @@
   </picture>
 </p>
 
+**AI dev tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Claude%20in%20Chrome-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude in Chrome" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge" alt="Codex" />
+  <img src="https://img.shields.io/badge/T3%20Code-1F2937?style=for-the-badge" alt="T3 Code" />
+</p>
+
+**MCP servers**
+
+<p>
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma MCP" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" alt="Playwright MCP" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira MCP" />
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket MCP" />
+  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace MCP" />
+</p>
+
 ## Featured projects
 
 | Project | What it is | Stack |

@@ -49,7 +49,6 @@
 | [async_order_processing_system](https://github.com/JatinRathore101/async_order_processing_system) | Asynchronous order processing backend | Go, PostgreSQL, NATS JetStream |
 | [Multi-tenant RBAC API](https://github.com/JatinRathore101/Fastify-PG-Project---Multi-Tenanted-Role-Based-Access-Control-System) | Multi-tenanted, role-based access control authentication API | Node.js, TypeScript, Fastify, Drizzle ORM, PostgreSQL |
 | [companies-dashboard](https://github.com/JatinRathore101/companies-dashboard) | Full-stack dashboard application | Next.js, Redux, MUI |
-| [leetcode-problems-tracker](https://github.com/JatinRathore101/leetcode-problems-tracker) | Tracker for LeetCode problem-solving progress | Next.js |
 
 ## GitHub stats
 
